@@ -1,5 +1,5 @@
-const Student = require('../models/Student');
-const User = require('../models/User');
+const Student = require('../models/student');
+const User = require('../models/user');
 
 // Get all students
 const getStudents = async (req, res) => {
